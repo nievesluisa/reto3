@@ -1,0 +1,14 @@
+C:\Users\Lisber Perez\Desktop\refuerzo reto 2 luisa\LOTERIA\bin\Debug\net8.0\LOTERIA.exe
+C:\Users\Lisber Perez\Desktop\refuerzo reto 2 luisa\LOTERIA\bin\Debug\net8.0\LOTERIA.deps.json
+C:\Users\Lisber Perez\Desktop\refuerzo reto 2 luisa\LOTERIA\bin\Debug\net8.0\LOTERIA.runtimeconfig.json
+C:\Users\Lisber Perez\Desktop\refuerzo reto 2 luisa\LOTERIA\bin\Debug\net8.0\LOTERIA.dll
+C:\Users\Lisber Perez\Desktop\refuerzo reto 2 luisa\LOTERIA\bin\Debug\net8.0\LOTERIA.pdb
+C:\Users\Lisber Perez\Desktop\refuerzo reto 2 luisa\LOTERIA\obj\Debug\net8.0\LOTERIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lisber Perez\Desktop\refuerzo reto 2 luisa\LOTERIA\obj\Debug\net8.0\LOTERIA.AssemblyInfoInputs.cache
+C:\Users\Lisber Perez\Desktop\refuerzo reto 2 luisa\LOTERIA\obj\Debug\net8.0\LOTERIA.AssemblyInfo.cs
+C:\Users\Lisber Perez\Desktop\refuerzo reto 2 luisa\LOTERIA\obj\Debug\net8.0\LOTERIA.csproj.CoreCompileInputs.cache
+C:\Users\Lisber Perez\Desktop\refuerzo reto 2 luisa\LOTERIA\obj\Debug\net8.0\LOTERIA.dll
+C:\Users\Lisber Perez\Desktop\refuerzo reto 2 luisa\LOTERIA\obj\Debug\net8.0\refint\LOTERIA.dll
+C:\Users\Lisber Perez\Desktop\refuerzo reto 2 luisa\LOTERIA\obj\Debug\net8.0\LOTERIA.pdb
+C:\Users\Lisber Perez\Desktop\refuerzo reto 2 luisa\LOTERIA\obj\Debug\net8.0\LOTERIA.genruntimeconfig.cache
+C:\Users\Lisber Perez\Desktop\refuerzo reto 2 luisa\LOTERIA\obj\Debug\net8.0\ref\LOTERIA.dll

@@ -1,0 +1,14 @@
+C:\Users\Lisber Perez\Desktop\refuerzo reto 2 luisa\estadistica\bin\Debug\net8.0\estadistica.exe
+C:\Users\Lisber Perez\Desktop\refuerzo reto 2 luisa\estadistica\bin\Debug\net8.0\estadistica.deps.json
+C:\Users\Lisber Perez\Desktop\refuerzo reto 2 luisa\estadistica\bin\Debug\net8.0\estadistica.runtimeconfig.json
+C:\Users\Lisber Perez\Desktop\refuerzo reto 2 luisa\estadistica\bin\Debug\net8.0\estadistica.dll
+C:\Users\Lisber Perez\Desktop\refuerzo reto 2 luisa\estadistica\bin\Debug\net8.0\estadistica.pdb
+C:\Users\Lisber Perez\Desktop\refuerzo reto 2 luisa\estadistica\obj\Debug\net8.0\estadistica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lisber Perez\Desktop\refuerzo reto 2 luisa\estadistica\obj\Debug\net8.0\estadistica.AssemblyInfoInputs.cache
+C:\Users\Lisber Perez\Desktop\refuerzo reto 2 luisa\estadistica\obj\Debug\net8.0\estadistica.AssemblyInfo.cs
+C:\Users\Lisber Perez\Desktop\refuerzo reto 2 luisa\estadistica\obj\Debug\net8.0\estadistica.csproj.CoreCompileInputs.cache
+C:\Users\Lisber Perez\Desktop\refuerzo reto 2 luisa\estadistica\obj\Debug\net8.0\estadistica.dll
+C:\Users\Lisber Perez\Desktop\refuerzo reto 2 luisa\estadistica\obj\Debug\net8.0\refint\estadistica.dll
+C:\Users\Lisber Perez\Desktop\refuerzo reto 2 luisa\estadistica\obj\Debug\net8.0\estadistica.pdb
+C:\Users\Lisber Perez\Desktop\refuerzo reto 2 luisa\estadistica\obj\Debug\net8.0\estadistica.genruntimeconfig.cache
+C:\Users\Lisber Perez\Desktop\refuerzo reto 2 luisa\estadistica\obj\Debug\net8.0\ref\estadistica.dll

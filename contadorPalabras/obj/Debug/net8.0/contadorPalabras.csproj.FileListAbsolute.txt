@@ -1,0 +1,14 @@
+C:\Users\Lisber Perez\Desktop\refuerzo reto 2 luisa\contadorPalabras\bin\Debug\net8.0\contadorPalabras.exe
+C:\Users\Lisber Perez\Desktop\refuerzo reto 2 luisa\contadorPalabras\bin\Debug\net8.0\contadorPalabras.deps.json
+C:\Users\Lisber Perez\Desktop\refuerzo reto 2 luisa\contadorPalabras\bin\Debug\net8.0\contadorPalabras.runtimeconfig.json
+C:\Users\Lisber Perez\Desktop\refuerzo reto 2 luisa\contadorPalabras\bin\Debug\net8.0\contadorPalabras.dll
+C:\Users\Lisber Perez\Desktop\refuerzo reto 2 luisa\contadorPalabras\bin\Debug\net8.0\contadorPalabras.pdb
+C:\Users\Lisber Perez\Desktop\refuerzo reto 2 luisa\contadorPalabras\obj\Debug\net8.0\contadorPalabras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lisber Perez\Desktop\refuerzo reto 2 luisa\contadorPalabras\obj\Debug\net8.0\contadorPalabras.AssemblyInfoInputs.cache
+C:\Users\Lisber Perez\Desktop\refuerzo reto 2 luisa\contadorPalabras\obj\Debug\net8.0\contadorPalabras.AssemblyInfo.cs
+C:\Users\Lisber Perez\Desktop\refuerzo reto 2 luisa\contadorPalabras\obj\Debug\net8.0\contadorPalabras.csproj.CoreCompileInputs.cache
+C:\Users\Lisber Perez\Desktop\refuerzo reto 2 luisa\contadorPalabras\obj\Debug\net8.0\contadorPalabras.dll
+C:\Users\Lisber Perez\Desktop\refuerzo reto 2 luisa\contadorPalabras\obj\Debug\net8.0\refint\contadorPalabras.dll
+C:\Users\Lisber Perez\Desktop\refuerzo reto 2 luisa\contadorPalabras\obj\Debug\net8.0\contadorPalabras.pdb
+C:\Users\Lisber Perez\Desktop\refuerzo reto 2 luisa\contadorPalabras\obj\Debug\net8.0\contadorPalabras.genruntimeconfig.cache
+C:\Users\Lisber Perez\Desktop\refuerzo reto 2 luisa\contadorPalabras\obj\Debug\net8.0\ref\contadorPalabras.dll
